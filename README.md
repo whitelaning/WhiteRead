@@ -16,16 +16,17 @@
 
 预览图(妹纸图的数据就不放了,画面太美,[下载App（github）](https://github.com/whitelaning/WhiteRead/releases)看吧)：
 
+Gank.io的数据
 ![Gank.io的数据](http://7xrxk4.com1.z0.glb.clouddn.com/image/jpg/S60810-212023.jpg?imageView2/2/w/320)
-
+U148.net的数据
 ![U148.net的数据](http://7xrxk4.com1.z0.glb.clouddn.com/image/jpg/S60810-212042.jpg?imageView2/2/w/320)
-
+Zhihu.com的数据]
 ![Zhihu.com的数据](http://7xrxk4.com1.z0.glb.clouddn.com/image/jpg/S60810-212056.jpg?imageView2/2/w/320)
-
+Tngou.net的数据
 ![Tngou.net的数据](http://7xrxk4.com1.z0.glb.clouddn.com/image/jpg/S60810-21282376.jpg?imageView2/2/w/320)
-
+查看详情
 ![查看详情](http://7xrxk4.com1.z0.glb.clouddn.com/image/jpg/S60813-113239.jpg?imageView2/2/w/320)
-
+查看大图和套图
 ![查看大图和套图](http://7xrxk4.com1.z0.glb.clouddn.com/image/jpg/S60810-221351.jpg?imageView2/2/w/320)
 
 使用到的技术点：
@@ -33,6 +34,7 @@
 **android原生**
  - recyclerview
  - cardview
+
 **第三方库**
  - butterKnife
  - RxJava

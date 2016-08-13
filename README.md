@@ -27,7 +27,7 @@ U148.net的数据
 
 ![U148.net的数据](http://7xrxk4.com1.z0.glb.clouddn.com/image/jpg/S60810-212042.jpg?imageView2/2/w/320)
 
-Zhihu.com的数据]
+Zhihu.com的数据
 
 ![Zhihu.com的数据](http://7xrxk4.com1.z0.glb.clouddn.com/image/jpg/S60810-212056.jpg?imageView2/2/w/320)
 

@@ -14,7 +14,7 @@
 -----
 这是一个之前就想弄的东西，作为一个新手，正好最近又想学习一下Rxjava免得还没入门就要被淘汰，所以写了这么一个聚合阅读软件。
 
-预览图(妹纸图的数据就不放了,画面太美,[下载App](下载地址)看吧)：
+预览图(妹纸图的数据就不放了,画面太美,[下载App（github）](https://github.com/whitelaning/WhiteRead/releases)看吧)：
 
 ![Gank.io的数据](http://7xrxk4.com1.z0.glb.clouddn.com/image/jpg/S60810-212023.jpg?imageView2/2/w/320)
 
@@ -56,3 +56,21 @@ PS：该项目主要是用于学习Jsoup的Html解析，recycler的灵活使用�
 
 Whitelaning
 It's very easy to be different but very difficult to be better
+
+## License
+
+```
+Copyright 2015 delight.im <info@delight.im>
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```

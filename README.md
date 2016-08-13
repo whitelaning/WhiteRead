@@ -2,8 +2,11 @@
 一个聚合阅读器
 
 声明:所有数据均由以下站点提供，本人（Whitelaning）采取非正常手段获取。获取与共享之行为或有侵犯数据站点权益的嫌疑。若被数据站点告知需停止共享与使用，本人会及时删除此页面。请您暸解相关情况，并遵守协议。 
-本人邮箱：whitelaning@qq.com
+
+本人邮箱：whitelaning@qq.com / whitelaning@gmail.com
+
 数据来源站点：
+
 >1.Gank.io (只获取Android资源)
 >2.U148.net (只获取首页资源)
 >3.Zhihu.com (获取每日资源)
@@ -17,17 +20,29 @@
 预览图(妹纸图的数据就不放了,画面太美,[下载App（github）](https://github.com/whitelaning/WhiteRead/releases)看吧)：
 
 Gank.io的数据
+
 ![Gank.io的数据](http://7xrxk4.com1.z0.glb.clouddn.com/image/jpg/S60810-212023.jpg?imageView2/2/w/320)
+
 U148.net的数据
+
 ![U148.net的数据](http://7xrxk4.com1.z0.glb.clouddn.com/image/jpg/S60810-212042.jpg?imageView2/2/w/320)
+
 Zhihu.com的数据]
+
 ![Zhihu.com的数据](http://7xrxk4.com1.z0.glb.clouddn.com/image/jpg/S60810-212056.jpg?imageView2/2/w/320)
+
 Tngou.net的数据
+
 ![Tngou.net的数据](http://7xrxk4.com1.z0.glb.clouddn.com/image/jpg/S60810-21282376.jpg?imageView2/2/w/320)
+
 查看详情
+
 ![查看详情](http://7xrxk4.com1.z0.glb.clouddn.com/image/jpg/S60813-113239.jpg?imageView2/2/w/320)
+
 查看大图和套图
+
 ![查看大图和套图](http://7xrxk4.com1.z0.glb.clouddn.com/image/jpg/S60810-221351.jpg?imageView2/2/w/320)
+
 
 使用到的技术点：
 

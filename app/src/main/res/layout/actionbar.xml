@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mActionBarBackground"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="48dp">
+
+    <TextView
+        android:id="@+id/mBack"
+        android:layout_width="80dp"
+        android:layout_height="32dp"
+        android:layout_centerVertical="true"
+        android:drawableStart="@drawable/actionbar_back"
+        android:gravity="center"
+        android:text="返回"
+        android:textColor="@color/Font_Menu"
+        android:textSize="@dimen/Font_Menu"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/mTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/mMenu"
+        android:layout_toRightOf="@+id/mBack"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxLines="1"
+        android:textColor="@color/Font_Title"
+        android:textSize="@dimen/Font_Title" />
+
+    <TextView
+        android:id="@+id/mMenu"
+        android:layout_width="80dp"
+        android:layout_height="32dp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:paddingEnd="@dimen/padding_right_8"
+        android:paddingStart="@dimen/padding_left_8"
+        android:textColor="@color/Font_Menu"
+        android:textSize="@dimen/Font_Menu"
+        android:visibility="invisible" />
+
+    <View
+        android:id="@+id/mLine"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_alignParentBottom="true"
+        android:background="@color/line" />
+
+</RelativeLayout>

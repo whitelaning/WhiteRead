@@ -1,0 +1,61 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="activity_toolbar_height">48dp</dimen>
+
+    <!-- 边界边距 -->
+    <dimen name="margin_left">16dp</dimen>
+    <dimen name="margin_right">16dp</dimen>
+
+    <dimen name="margin_left_8">8dp</dimen>
+    <dimen name="margin_right_8">8dp</dimen>
+
+    <dimen name="margin_left_4">4dp</dimen>
+    <dimen name="margin_right_4">4dp</dimen>
+
+    <dimen name="margin_top">16dp</dimen>
+    <dimen name="margin_bottom">16dp</dimen>
+
+    <dimen name="margin_top_8">8dp</dimen>
+    <dimen name="margin_bottom_8">8dp</dimen>
+
+    <dimen name="margin_top_4">4dp</dimen>
+    <dimen name="margin_bottom_4">4dp</dimen>
+
+    <dimen name="padding_left">16dp</dimen>
+    <dimen name="padding_right">16dp</dimen>
+
+    <dimen name="padding_left_8">8dp</dimen>
+    <dimen name="padding_right_8">8dp</dimen>
+
+    <dimen name="padding_left_4">4dp</dimen>
+    <dimen name="padding_right_4">4dp</dimen>
+
+    <dimen name="padding_top">16dp</dimen>
+    <dimen name="padding_bottom">16dp</dimen>
+
+    <dimen name="padding_top_8">8dp</dimen>
+    <dimen name="padding_bottom_8">8dp</dimen>
+
+    <dimen name="padding_top_4">4dp</dimen>
+    <dimen name="padding_bottom_4">4dp</dimen>
+
+    <!-- 字体大小Start -->
+    <dimen name="Font_Headline">24sp</dimen> <!-- 大标题 -->
+    <dimen name="Font_Title">20sp</dimen> <!-- 标题 -->
+    <dimen name="Font_Subbead">16sp</dimen> <!-- 小标题 -->
+    <dimen name="Font_Button">14sp</dimen> <!-- 按钮 -->
+    <dimen name="Font_Menu">14sp</dimen> <!-- 菜单 -->
+    <dimen name="Font_Body">14sp</dimen> <!-- 正文 -->
+    <dimen name="Font_Caption">12sp</dimen> <!-- 说明文字 -->
+    <dimen name="Font_Dispaly1">34sp</dimen> <!-- 陈列1 -->
+    <dimen name="Font_Dispaly2">45sp</dimen> <!-- 陈列2 -->
+    <dimen name="Font_Dispaly3">56sp</dimen> <!-- 陈列3 -->
+    <dimen name="Font_Dispaly4">112sp</dimen> <!-- 陈列4 -->
+    <!-- 字体大小End -->
+
+    <dimen name="textandiconmargin">10dp</dimen>
+
+</resources>

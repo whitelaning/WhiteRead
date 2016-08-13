@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.drawee.view.SimpleDraweeView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mImage"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    fresco:actualImageScaleType="fitXY"
+    fresco:fadeDuration="300"
+    fresco:failureImage="@drawable/load_image_fail"
+    fresco:failureImageScaleType="fitXY"
+    fresco:placeholderImage="@drawable/load_image_ing"
+    fresco:placeholderImageScaleType="fitXY"
+    fresco:retryImage="@drawable/load_image_retry"
+    fresco:retryImageScaleType="fitXY" />

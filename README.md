@@ -56,14 +56,14 @@ Tngou.net的数据
  - gson
  - retrofit
  - okhttp
- - glide
+ - glide（**[Glide](https://github.com/bumptech/glide)**）
  - fresco
  - Jsoup
  - logger
  - magicindicator
- - photoview
- - convenientbanner
- - xrecyclerview
+ - photoview（**[PhotoView](https://github.com/bm-x/PhotoView)**）
+ - convenientbanner（**[Android-ConvenientBanner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)**）
+ - xrecyclerview（**[XRecyclerview](https://github.com/jianghejie/XRecyclerView)**）
 
 PS：该项目主要是用于学习Jsoup的Html解析，recycler的灵活使用，fresco和glide的图片加载对比，okhttp的原生应用和与retrofit的结合使用，Rxjava的入门学习和okhttp+retrofit+Rxjava的结合。
 

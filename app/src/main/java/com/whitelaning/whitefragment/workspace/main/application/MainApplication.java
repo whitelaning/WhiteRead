@@ -31,7 +31,6 @@ public class MainApplication extends BaseApplication {
         super.initData();
         initOkHttps();
         initFresco();
-        Fresco.initialize(this);
     }
 
     private void initFresco() {
